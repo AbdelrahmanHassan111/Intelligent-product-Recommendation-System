@@ -111,7 +111,5 @@ This project demonstrates the application of deep learning in classifying e-comm
 
 ## Authors 👥
 
-- [Your Name](https://github.com/yourusername)
-- [Collaborator Name](https://github.com/collaboratorusername)
+- [Abdelrahman Hassan](https://github.com/abdelrahman-hassan111)
 
-Feel free to contribute to this project by submitting issues or pull requests. Let's make e-commerce smarter with AI! 🚀
