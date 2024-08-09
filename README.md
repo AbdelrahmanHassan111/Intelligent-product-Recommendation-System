@@ -111,5 +111,5 @@ This project demonstrates the application of deep learning in classifying e-comm
 
 ## Authors 👥
 
-- [Abdelrahman Hassan](https://github.com/abdelrahman-hassan111)
+- [Abdelrahman Hassan](https://github.com/AbdelrahmanHassan111)
 
